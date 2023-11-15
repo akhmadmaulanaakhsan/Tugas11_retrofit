@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas 11 Retrofit</string>
+    <string name="news_name">name</string>
+    <string name="tanggal">tanggal</string>
+    <string name="item_author"> nama author</string>
+    <string name="item_category"> category</string>
+    <string name="news_judul">Judul News</string>
+    <string name="description">Deskripsi News</string>
+</resources>
